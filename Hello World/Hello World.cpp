@@ -13,8 +13,8 @@ int main()
     double result = 0.0;
     char oper = '+';
 
-    cout << "Calculator Console Application" << endl << endl;
-    cout << "Please enter the operation to perform. Format: a+b | a-b | a*b | a/b" << endl;
+    cout << "Calculadora de consola" << endl << endl;
+    cout << "Indroduzca una operación en formato: a+b | a-b | a*b | a/b" << endl;
 
     Calculator c;
     while (true)
